@@ -1,5 +1,5 @@
-- name: Articles
-  href: articles/
-- name: Api Documentation
-  href: api/
-  homepage: api/index.md
+- name: GL-Storage
+  href: gl-storage/
+- name: GL-Authorizations
+  href: gl-authorizations/
+  homepage: articles/intro.md
