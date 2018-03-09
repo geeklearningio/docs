@@ -1,5 +1,3 @@
-- name: GL-Storage
-  href: gl-storage/
-- name: GL-Authorizations
-  href: gl-authorizations/
-  homepage: articles/intro.md
+- name: Contributions
+  href: contributions/
+  homepage: index.md
